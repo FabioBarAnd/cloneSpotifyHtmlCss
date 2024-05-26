@@ -2,7 +2,7 @@
 
 Spotify clone is a project developed by me (Fabio) with the help of Alura, one of the biggest dev schools of Brazil.
 
-(![Spotify clone face](image.png)).
+![Spotify clone face](image.png)
 
 ## ✔️ Techniques and technologies used:
 
